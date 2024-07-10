@@ -2,6 +2,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 
+html{
+    scroll-behavior: smooth;
+}
 * {
     box-sizing: border-box;
     margin: 0;
@@ -35,6 +38,8 @@ body {
     border-radius: 8px;
     background: rgb(13, 19, 33);
     color: white;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .banner-image-content {

@@ -102,6 +102,22 @@ body {
 
 }
 
-#card-2{
+#card-2 {
     flex-direction: row-reverse;
+}
+
+
+
+
+.inspiration-section {
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+#video {
+    margin-top: 48px;
+    border-radius: 16px;
+    border: 1px solid grey;
+    padding: 32px;
 }

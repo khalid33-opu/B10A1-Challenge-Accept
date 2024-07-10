@@ -121,3 +121,56 @@ body {
     border: 1px solid grey;
     padding: 32px;
 }
+
+
+
+.target-contant-section {
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+
+.logo {
+    width: 364px;
+    border-radius: 16px;
+    padding: 40px;
+    background: rgba(255, 76, 30, 0.05);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+.logo h4 {
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+
+.logo a {
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.target-logo-contant {
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo-2 {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+#logo-3 {
+    background: rgba(255, 223, 0, 0.05);
+}
+
+#logo-3 h4 {
+    text-transform: none;
+
+}
